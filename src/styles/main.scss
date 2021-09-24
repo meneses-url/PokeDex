@@ -1,0 +1,10 @@
+// Variables
+@import "./variables/colors";
+@import "variables/breakpoints";
+
+body {
+  background-color: $bgColor-main;
+}
+
+//Navbar (logo)
+@import "./Logo/logo";
